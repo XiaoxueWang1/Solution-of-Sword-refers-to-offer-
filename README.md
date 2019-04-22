@@ -12,3 +12,4 @@
 | [两个链表的第一个公共结点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tqId=11189&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)  | [C++](./CPP/FindFirstCommonNode.cpp) |
 | [数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tqId=11188&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)  | [C++](./CPP/InversePairs.cpp) |
 | [丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)  | [C++](./CPP/UglyNumber.cpp) |
+| [把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tqId=11202&tPage=3&rp=3&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)  | [C++](./CPP/StrToInt.cpp) |
